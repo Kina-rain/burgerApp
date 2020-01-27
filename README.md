@@ -3,17 +3,14 @@ App to Devour Burgers
 
 ## Overview
 
-This project was to create a burger application with MySQL, Node, Express, Handlebars and a homemade ORM. The Burger App was made so that a 
-
-user may order and click burgers that they may eat. The Burgers that are ordered move to the devoured list and can be deleted from that list. 
-
-This project followed the MVC design pattern; using Node and MySQL to query and route data in the app. The project also used Handlebars to 
-
+This project was to create a burger application with MySQL, Node, Express, Handlebars and a homemade ORM. The Burger App was made so that a
+user may order and click burgers that they may eat. The Burgers that are ordered move to the devoured list and can be deleted from that list.
+This project followed the MVC design pattern; using Node and MySQL to query and route data in the app. The project also used Handlebars to
 generate the HTML. The project was also uploaded to Heroku.
 
 ## Heroku Link:
 
-* Link:
+* Link: https://hidden-garden-54962.herokuapp.com/
 
 I utilize the [MYSQL Heroku Deployment Guide](../../03-Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy this assignment.
 
