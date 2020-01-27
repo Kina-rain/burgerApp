@@ -3,7 +3,7 @@
     USE burgers_db;
 
     CREATE TABLE burgers(
-        id INT NOT NULL auto_increment,
+        id INT NOT NULL AUTO_INCREMENTS,
         burger_name VARCHAR(50) NOT NULL,
         devoured BOOLEAN DEFAULT false,
         PRIMARY KEY (id)

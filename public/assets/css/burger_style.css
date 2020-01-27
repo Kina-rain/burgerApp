@@ -1,0 +1,26 @@
+.jumbotron {
+    background-image: url("/assets/img/burgerAndfries.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #f1cf34;
+    color: #ffffff;
+    margin-top: 3%;
+  }
+
+  #newburger {
+    color: #5c5c5c;
+  }
+
+  #leftside {
+    background-color: rgb(202, 160, 83);
+    color: cornsilk;
+    text-align: center;
+    font-size: 1.3em;
+  }
+  
+  #rightside {
+    background-color: rgb(202, 160, 83);
+    color: cornsilk;
+    text-align: center;
+    font-size: 1.3em;
+  }
