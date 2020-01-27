@@ -1,17 +1,31 @@
-# burgerApp
+# Burger App
 App to Devour Burgers
 
-### Overview
+## Overview
 
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
+This project was to create a burger application with MySQL, Node, Express, Handlebars and a homemade ORM. The Burger App was made so that a 
 
-### Read This
+user may order and click burgers that they may eat. The Burgers that are ordered move to the devoured list and can be deleted from that list. 
 
-When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
+This project followed the MVC design pattern; using Node and MySQL to query and route data in the app. The project also used Handlebars to 
 
-### Important
+generate the HTML. The project was also uploaded to Heroku.
 
-* **This assignment must be deployed.** Be sure to utilize the [MYSQL Heroku Deployment Guide](../../03-Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy your assignment.
+## Heroku Link:
+
+* Link:
+
+I utilize the [MYSQL Heroku Deployment Guide](../../03-Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy this assignment.
+
+## Screen Shot
+
+* Link: https://github.com/Kina-rain/burgerApp
+
+
+
+![alt text][screenshot]
+
+[screenshot]: https://github.com/Kina-rain/burgerApp/blob/master/screenshot.png "Burger Project"
 
 ### Before You Begin
 
@@ -145,7 +159,6 @@ When trying to connect remotely to your Heroku database on an open network such 
 
 All the recommended files and directories from the steps above should look like the following structure:
 
-```
 .
 ├── config
 │   ├── connection.js
